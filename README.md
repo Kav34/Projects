@@ -1,3 +1,5 @@
-# Project 
+# Project Overview
 ## S&P500 Stock Price Prediction
-### For now i just pushed my stock price prediction project and later i will add the rest. - StockMarketWorkinVer.ipynb is the final working version. The others were a backup of a certain point and an alternate version (pretty much the same) that doesnt fully function at the moment so StockMarketWorkinVer.ipynb is the final finished version with comments
+This project predicts the price of the S&P500 stock market index.
+You can find the code for this project in this folder above.
+- StockMarketPredictWorkinVer.ipynb - a jupyter notebook that contains all the code.
